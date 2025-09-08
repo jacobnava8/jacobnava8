@@ -9,26 +9,26 @@
 ## 🚀 Featured Projects  
 
 ### 🔐 Cybersecurity
-- [**Network Vulnerability Scanner**](https://github.com/JacobNava/network-vulnerability-scanner) 🛡️  
+- [**Network Vulnerability Scanner**](https://github.com/JacobNava8/network-vulnerability-scanner) 🛡️  
   Python-based tool to scan hosts & detect open TCP ports (1–1025).  
 
-- [**Firewall & IDS Capstone**](https://github.com/JacobNava/firewall-ids-capstone) 🔥  
+- [**Firewall & IDS Capstone**](https://github.com/JacobNava8/firewall-ids-capstone) 🔥  
   Configured IDS to log suspicious traffic & implemented firewall rules to block malicious activity.  
 
-- [**Secure Network Setup**](https://github.com/JacobNava/secure-network-setup) 🔒  
+- [**Secure Network Setup**](https://github.com/JacobNava8/secure-network-setup) 🔒  
   Configured secure OS and network environments with security baselines and hardening.  
 
 ---
 
 ### 📊 Data Analytics
-- [**Telco Customer Churn Analysis**](https://github.com/JacobNava/telco-churn-analysis) 📈  
+- [**Telco Customer Churn Analysis**](https://github.com/JacobNava8/telco-churn-analysis) 📈  
   Built ML models (~79% accuracy) to predict customer churn using Python (Logistic Regression & Decision Trees).  
   Delivered actionable business recommendations like loyalty programs and contract incentives to reduce churn.  
 
-- [**DBMS SQL Schema**](https://github.com/JacobNava/dbms-sql-schema) 🗄️  
+- [**DBMS SQL Schema**](https://github.com/JacobNava8/dbms-sql-schema) 🗄️  
   Designed normalized SQL schemas for inventory, suppliers, and customers.  
 
-- [**Task Management System**](https://github.com/JacobNava/task-management-system) ✅  
+- [**Task Management System**](https://github.com/JacobNava8/task-management-system) ✅  
   Developed Java-based web app with secure login & role-based access.  
 
  
