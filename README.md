@@ -2,22 +2,36 @@
 
 🎓 **MS Business Analytics (2026)** @ The University of Texas at Arlington  
 🔐 **CompTIA Security+ Certified** | Cybersecurity & Data Analytics Enthusiast  
-📊 Passionate about applying data science and security methods to real-world problems  
+📊 Passionate about applying data-driven insights & security practices to real-world problems  
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects  
 
 ### 🔐 Cybersecurity
-- **Secure Network Setup** – Configured secure OS & network environments  
-- **Network Vulnerability Scanner (Python)** – Built a port scanner to detect open TCP ports  
-- **Ethical Hacking Lab** – Documented vulnerabilities in production & DMZ servers  
-- **Firewall & IDS Capstone** – Implemented IDS/Firewall rules to block malicious traffic  
+- [**Network Vulnerability Scanner**](https://github.com/JacobNava/network-vulnerability-scanner) 🛡️  
+  Python-based tool to scan hosts & detect open TCP ports (1–1025).  
+
+- [**Firewall & IDS Capstone**](https://github.com/JacobNava/firewall-ids-capstone) 🔥  
+  Configured IDS to log suspicious traffic & implemented firewall rules to block malicious activity.  
+
+- [**Secure Network Setup**](https://github.com/JacobNava/secure-network-setup) 🔒  
+  Configured secure OS and network environments with security baselines and hardening.  
+
+---
 
 ### 📊 Data Analytics
-- **Telco Customer Churn Analysis** – Built ML models (~79% accuracy) to predict churn & reduce business cost  
-- **Database Management System (SQL)** – Designed normalized schemas for efficient storage/retrieval  
-- **Task Management System (Java)** – Developed secure web-based task system with authentication  
+- [**Telco Customer Churn Analysis**](https://github.com/JacobNava/telco-churn-analysis) 📈  
+  Built ML models (~79% accuracy) to predict customer churn using Python (Logistic Regression & Decision Trees).  
+  Delivered actionable business recommendations like loyalty programs and contract incentives to reduce churn.  
+
+- [**DBMS SQL Schema**](https://github.com/JacobNava/dbms-sql-schema) 🗄️  
+  Designed normalized SQL schemas for inventory, suppliers, and customers.  
+
+- [**Task Management System**](https://github.com/JacobNava/task-management-system) ✅  
+  Developed Java-based web app with secure login & role-based access.  
+
+ 
 
 ---
 
