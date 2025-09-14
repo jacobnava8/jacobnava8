@@ -16,7 +16,10 @@
   Configured IDS to log suspicious traffic & implemented firewall rules to block malicious activity.  
 
 - [**Secure Network Setup**](https://github.com/JacobNava8/secure-network-setup) 🔒  
-  Configured secure OS and network environments with security baselines and hardening.  
+  Configured secure OS and network environments with security baselines and hardening.
+
+- [**ethical-hacking-lab**](https://github.com/JacobNava8/ethical-hacking-lab) 🔥  
+  Hands-on ethical hacking project using Kali Linux, Nmap, and Metasploit to identify and exploit server vulnerabilities in a lab environment. 
 
 ---
 
